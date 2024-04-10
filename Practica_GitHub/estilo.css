@@ -1,0 +1,11 @@
+div{
+    background: rgb(77, 61, 250);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+}
+hr{
+    background: black;
+    width: 1rem;
+    height: 1rem;
+}
